@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Design System",
+    "description": "Reusable React components for all projects of the company",
+    "techs": [],
+    "url": "",
+    "startDate": "09-01-2020",
+    "endDate": ""
+  },
+  {
+    "id": 2,
+    "name": "Real State Application",
+    "description": "International Web application with several integrations and charts, everything related to buildings as renting, lending, buying and selling",
+    "techs": [],
+    "url": "",
+    "startDate": "08-15-2021",
+    "endDate": "11-30-2022"
+  },
+  {
+    "id": 3,
+    "name": "iOS App for iPads",
+    "description": "An iOS application used by doctors and patients to connect via video calls, this is an application I participated from scratch, since gathering requirements to delivering, it was really awesome to learn a new programming language and be able to deliver it in a short time deadline",
+    "techs": [],
+    "url": "",
+    "startDate": "12-01-2022",
+    "endDate": "06-01-2023"
+  },
+  {
+    "id": 4,
+    "name": "Chat bot for companies",
+    "description": "A web application and integration for various types of communication platforms such as Slack, Notion and more, to facilitate the access of documents and company rules to its employees",
+    "techs": [],
+    "url": "https://tasketeer.ai/",
+    "startDate": "06-12-2023",
+    "endDate": "06-23-2023"
+  },
+  {
+    "id": 5,
+    "name": "Integrator",
+    "description": "An app used to integrate GitHub and Azure repos and their actions to Slack",
+    "techs": [],
+    "url": "",
+    "startDate": "11-01-2020",
+    "endDate": "12-15-2020"
+  },
+  {
+    "id": 6,
+    "name": "Find The Bank",
+    "description": "Simple web application to find the best commercial Real State loans",
+    "techs": [],
+    "url": "https://www.findthebank.com/",
+    "startDate": "",
+    "endDate": ""
+  },
+  {
+    "id": 7,
+    "name": "Appraisal",
+    "description": "It's a branch app of the Real State Application to manage loan processes",
+    "techs": [],
+    "url": "https://www.findthebank.com/",
+    "startDate": "",
+    "endDate": ""
+  }
+]
